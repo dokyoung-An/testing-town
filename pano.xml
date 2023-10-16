@@ -14,7 +14,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="" author="" longitude="" comment="" nodeid="node13" tags="연립_B타입-현관 18-20230923-125139|타운하우스" source="" copyright="" datetime="" title="현관" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="" author="" longitude="" comment="연립형B" nodeid="node13" tags="연립_B타입-현관 18-20230923-125139|타운하우스" source="" copyright="" datetime="" title="현관" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -39,7 +39,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node16" tags="연립_B타입-복도 17-20230923-125128|타운하우스" source="" copyright="" datetime="" title="복도" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node16" tags="연립_B타입-복도 17-20230923-125128|타운하우스" source="" copyright="" datetime="" title="복도" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -69,7 +69,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node1" tags="연립_B타입-거실1 16-20230923-125132|타운하우스" source="" copyright="" datetime="" title="거실" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node1" tags="연립_B타입-거실1 16-20230923-125132|타운하우스" source="" copyright="" datetime="" title="거실" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -101,7 +101,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node2" tags="연립_B타입-거실2 15-20230923-125135|타운하우스" source="" copyright="" datetime="" title="거실" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node2" tags="연립_B타입-거실2 15-20230923-125135|타운하우스" source="" copyright="" datetime="" title="거실" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -132,7 +132,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node3" tags="연립_B타입-공용욕실 1-20230923-125134|타운하우스" source="" copyright="" datetime="" title="욕실" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node3" tags="연립_B타입-공용욕실 1-20230923-125134|타운하우스" source="" copyright="" datetime="" title="욕실" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -159,7 +159,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node4" tags="연립_B타입-부엌1 14-20230923-125135|타운하우스" source="" copyright="" datetime="" title="주방" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node4" tags="연립_B타입-부엌1 14-20230923-125135|타운하우스" source="" copyright="" datetime="" title="주방" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -189,7 +189,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node5" tags="연립_B타입-부엌2 13-20230923-125133|타운하우스" source="" copyright="" datetime="" title="주방" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node5" tags="연립_B타입-부엌2 13-20230923-125133|타운하우스" source="" copyright="" datetime="" title="주방" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -218,7 +218,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node15" tags="연립_B타입-보조주방 12-20230923-125136|타운하우스" source="" copyright="" datetime="" title="보조주방" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node15" tags="연립_B타입-보조주방 12-20230923-125136|타운하우스" source="" copyright="" datetime="" title="보조주방" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -243,7 +243,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node6" tags="연립_B타입-안방1 11-20230923-125132|타운하우스" source="" copyright="" datetime="" title="침실1" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node6" tags="연립_B타입-안방1 11-20230923-125132|타운하우스" source="" copyright="" datetime="" title="침실1" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -270,7 +270,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node7" tags="연립_B타입-안방2 10-20230923-125139|타운하우스" source="" copyright="" datetime="" title="침실1" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node7" tags="연립_B타입-안방2 10-20230923-125139|타운하우스" source="" copyright="" datetime="" title="침실1" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -295,7 +295,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node12" tags="연립_B타입-파우더룸 0-20230923-125138|타운하우스" source="" copyright="" datetime="" title="파우더룸" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node12" tags="연립_B타입-파우더룸 0-20230923-125138|타운하우스" source="" copyright="" datetime="" title="파우더룸" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -322,7 +322,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node14" tags="연립_B타입-드레스룸 7-20230923-125132|타운하우스" source="" copyright="" datetime="" title="드레스룸" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node14" tags="연립_B타입-드레스룸 7-20230923-125132|타운하우스" source="" copyright="" datetime="" title="드레스룸" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -349,7 +349,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node8" tags="연립_B타입-안방욕실1 9-20230923-125143|타운하우스" source="" copyright="" datetime="" title="욕실2" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node8" tags="연립_B타입-안방욕실1 9-20230923-125143|타운하우스" source="" copyright="" datetime="" title="욕실2" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -374,7 +374,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node9" tags="연립_B타입-침실2-1 4-20230923-125128|타운하우스" source="" copyright="" datetime="" title="침실2" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node9" tags="연립_B타입-침실2-1 4-20230923-125128|타운하우스" source="" copyright="" datetime="" title="침실2" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -399,7 +399,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node17" tags="연립_B타입-침실2-2 3-20230923-125128|타운하우스" source="" copyright="" datetime="" title="침실2" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node17" tags="연립_B타입-침실2-2 3-20230923-125128|타운하우스" source="" copyright="" datetime="" title="침실2" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -426,7 +426,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node18" tags="연립_B타입-침실2욕실 2-20230923-125127|타운하우스" source="" copyright="" datetime="" title="침실2 욕실" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node18" tags="연립_B타입-침실2욕실 2-20230923-125127|타운하우스" source="" copyright="" datetime="" title="침실2 욕실" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -453,7 +453,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node19" tags="연립_B타입-침실2파우더룸 8-20230923-125131|타운하우스" source="" copyright="" datetime="" title="침실2 파우더룸" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node19" tags="연립_B타입-침실2파우더룸 8-20230923-125131|타운하우스" source="" copyright="" datetime="" title="침실2 파우더룸" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -480,7 +480,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node10" tags="연립_B타입-침실3 5-20230923-125132|타운하우스" source="" copyright="" datetime="" title="침실3" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node10" tags="연립_B타입-침실3 5-20230923-125132|타운하우스" source="" copyright="" datetime="" title="침실3" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
@@ -505,7 +505,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fovstereographic="330" tilt="90" scaletofit="1" fov="140" pan="360" fovfisheye="360"/>
     </view>
-    <userdata description="1층" author="" longitude="" comment="" nodeid="node11" tags="연립_B타입-침실4 6-20230923-125133|타운하우스" source="" copyright="" datetime="" title="침실4" info="" heading="0" latitude="" customnodeid=""/>
+    <userdata description="1층" author="" longitude="" comment="연립형B" nodeid="node11" tags="연립_B타입-침실4 6-20230923-125133|타운하우스" source="" copyright="" datetime="" title="침실4" info="" heading="0" latitude="" customnodeid=""/>
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label border="1" textalpha="1" borderradius="1" background="1" enabled="1" height="20" width="180" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" bordercolor="0x000000"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
